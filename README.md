@@ -1,5 +1,6 @@
 # lb1 
 
+hello 
 Welcome to lb1 — a small, friendly starter repository. This README gives a quick overview, usage hints, and guidance for contributing so you (or your classmates) can get up and running fast.
 
 ## What is this project?
